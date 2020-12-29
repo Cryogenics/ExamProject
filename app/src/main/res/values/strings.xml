@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamProject</string>
+
+    <string name="title">Название</string>
+    <string name="fullname">ФИО</string>
+
+
+    <string-array name="Types">
+        <item>Экзамен</item>
+        <item>Зачет</item>
+        <item>Курсовая</item>
+    </string-array>
+</resources>
